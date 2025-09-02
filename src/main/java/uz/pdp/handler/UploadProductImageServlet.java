@@ -8,7 +8,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.Part;
 import uz.pdp.dao.ImageDAO;
 import uz.pdp.dao.ProductDAO;
-import uz.pdp.dao.ProductImageDAO
+import uz.pdp.dao.ProductImageDAO;
 import uz.pdp.helper.RedirectHelper;
 
 import java.io.IOException;
