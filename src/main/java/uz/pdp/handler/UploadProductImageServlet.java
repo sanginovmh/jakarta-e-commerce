@@ -6,12 +6,9 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.Part;
-import org.w3c.dom.html.HTMLHeadElement;
 import uz.pdp.dao.ImageDAO;
 import uz.pdp.dao.ProductDAO;
-import uz.pdp.dao.ProductImageDAO;
-import uz.pdp.entity.Image;
-import uz.pdp.entity.User;
+import uz.pdp.dao.ProductImageDAO
 import uz.pdp.helper.RedirectHelper;
 
 import java.io.IOException;
